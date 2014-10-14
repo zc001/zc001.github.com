@@ -26,8 +26,8 @@ favicon: /public/img/ava.png
 #   url: yansu.org
 
 # # disqus 设置
-# disqus:
-#   shortname: zc-zh
+disqus:
+  shortname: zc001
 
 # 主题设置，自动激活某个标签
 active: 技术
