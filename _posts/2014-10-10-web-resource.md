@@ -29,6 +29,8 @@ description: 各类网络资源
 
 * [Linux的五个查找命令](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 
+* [每日一linux命令](http://www.cnblogs.com/peida/tag/%E6%AF%8F%E6%97%A5%E4%B8%80linux%E5%91%BD%E4%BB%A4/)
+
 ### 博客
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
