@@ -34,3 +34,11 @@ description: 各类网络资源
 ### 博客
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+### cocos2d-js
+
+* [wangdi的游戏社区](http://blog.csdn.net/w337198302/article/category/1634165)
+
+### 其他
+
+* [相当于谷歌](http://www.gfsoso.com/)
