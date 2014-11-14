@@ -2,7 +2,7 @@
 layout: post
 title: 我对javascript对象和原型的理解 
 category: 技术
-tags: javaScript
+tags: javaScript 干货
 description: 对象和原型
 ---
 
